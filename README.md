@@ -1,3 +1,7 @@
 # Real Estate App
 
-![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
+![Estate Trend](https://github.com/Nitin-Sharma-coder/EstateTrend/blob/main/assets/images/screenshot1.JPG)
+
+<!-- ![App Screenshot](https://github.com/Nitin-Sharma-coder/EstateTrend/blob/main/assets/images/screenshot1.JPG)
+
+ -->
